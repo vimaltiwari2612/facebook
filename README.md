@@ -10,5 +10,6 @@ Android Implementation of Facebook Feeds using ***Android Volley Library***.
 
 # [demo]()
 
-# [API and other sources](https://www.androidhive.info/2014/06/android-facebook-like-custom-listview-feed-using-volley)
+# Credits
+Thanks to [Android Hive](https://www.androidhive.info/2014/06/android-facebook-like-custom-listview-feed-using-volley)
 
